@@ -1,7 +1,7 @@
-# Advanced-Java-Assignment(BCS613D)-4AL22CS109
+# Advanced-Java-Assignment(BCS613D)-4AL22CS047
 *1.ARRAYLIST AND LINKEDLIST*
 
-1a)[ArrayListExample Output]->(https://github.com/Glanil21/JAVA/blob/main/1a.Array_List/Arraylist.png)
+1a)[ArrayListExample Output]->(https://github.com/Glanil21/JAVA/blob/main/1a.Array_List/ArrayWorkedOutEx.png)
 
 1b)[ColorManager output]->(https://github.com/Glanil21/JAVA/blob/main/1b.Array_List/Colormanager.png)
 
